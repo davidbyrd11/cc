@@ -34,12 +34,12 @@ button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
 textarea{overflow:auto;vertical-align:top;}
 table{border-collapse:collapse;border-spacing:0;}
 html,a{color:#333;font-family:Courier, monospace;font-size:12px;line-height:16px;text-decoration:none;font-weight:lighter;}
-#home h1{background:url('/images/logo-min.png') no-repeat center;width:193px;height:203px;margin:0 auto;}
+#home h1{background:url('http://d3phq4e9hcpjua.cloudfront.net/cc/logo-min.png') no-repeat center;width:193px;height:203px;margin:0 auto;}
 #home .nav{margin:15px auto;max-width:152px;}#home .nav a{float:left;color:#333;font-family:monospace;font-size:12px;line-height:16px;text-decoration:none;margin-right:15px;}#home .nav a:last-child{margin-right:0;}
 #team h1,#thesis h1{margin-bottom:24px;text-align:center;}
 #team .teammate,#thesis .teammate{overflow:auto;margin-bottom:10px;}
 #team .headshot,#thesis .headshot{float:left;width:100px;margin-right:15px;}
-#team .bio,#thesis .bio{float:left;width:285px;}#team .bio h3,#thesis .bio h3{margin:0 auto;}
+#team .bio,#thesis .bio{float:right;width:285px;}#team .bio h3,#thesis .bio h3{margin:0 auto;}
 #team .thought,#thesis .thought{margin-bottom:15px;}
 .back{text-align:center;}
 .container{width:400px;margin:200px auto;}

@@ -9,14 +9,14 @@
     <div class="container">
       <h1>Team</h1>
       <div class="teammate">
-        <img class="headshot" src="/images/mike.jpg" />
+        <img class="headshot" src="http://d3phq4e9hcpjua.cloudfront.net/cc/mike.jpg" />
         <div class="bio">
           <h3>Ador M. Cristofi</h3>
           <p>Ador founded Cristofi &amp; Co. in 2009 with the vision of building fully automated trading solutions. Ador studied Finance and Mathematics at NYU's Stern School of Business and Courant Institue of Mathematical Sciences respectively.</p>
         </div>
       </div>
       <div class="teammate">
-        <img class="headshot" src="/images/david.png" />
+        <img class="headshot" src="http://d3phq4e9hcpjua.cloudfront.net/cc/david.png" />
         <div class="bio">
           <h3>David Byrd</h3>
           <p>A Silicon Valley native, David has spent his entire career in technology. Most recently he was Interim CTO at Andreessen Horowitz and Y Combinator backed Shoptiques.com. David is also a student at NYU.</p>
