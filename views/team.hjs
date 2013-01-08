@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
     <title>Cristofi &amp; Co. &mdash; Team</title>
     <link rel='stylesheet' href='/stylesheets/style.min.css' />
     <script type="text/javascript" src="/javascripts/ga.js"></script>
