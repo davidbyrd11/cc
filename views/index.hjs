@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cristofi &amp; Co.</title>
+    <link rel='stylesheet' href='/stylesheets/style.min.css' />
+    <script type="text/javascript" src="/javascripts/ga.js"></script>
+  </head>
+  <body id="home">
+    <div class="container">
+      <h1><span style="display: none;">Cristofi &amp; Co.</span></h1>
+      <div class="nav">
+        <a href="/thesis">Thesis</a>
+        <a href="/team">Team</a>
+        <a href="mailto:info@cristofi.com">Contact</a>
+      </div>
+    </div>
+  </body>
+</html>
