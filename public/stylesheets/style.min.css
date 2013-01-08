@@ -34,6 +34,7 @@ button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
 textarea{overflow:auto;vertical-align:top;}
 table{border-collapse:collapse;border-spacing:0;}
 html,a{color:#333;font-family:Courier, monospace;font-size:12px;line-height:16px;text-decoration:none;font-weight:lighter;}
+#home,#thesis,#team{display:none;}
 #home h1{background:url('http://d3phq4e9hcpjua.cloudfront.net/cc/logo-min.png') no-repeat center;width:193px;height:203px;margin:0 auto;}
 #home .nav{margin:15px auto;max-width:152px;}#home .nav a{float:left;color:#333;font-family:monospace;font-size:12px;line-height:16px;text-decoration:none;margin-right:15px;}#home .nav a:last-child{margin-right:0;}
 #team h1,#thesis h1{margin-bottom:24px;text-align:center;}
