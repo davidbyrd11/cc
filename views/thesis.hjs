@@ -16,10 +16,8 @@
   <body id="thesis">
     <div class="container">
       <h1>Thesis</h1>
-      <h3>Values</h3>
-      <p class="thought">We believe that technology can not only remove human bias, but capitalize on it. We capitalize on biases inherent to humanity rather than specific to a security.</p>
-      <h3>Technology</h3>
-      <p class="thought">All of our strategies are backtested against historical data in R. Once strategies are ready for production we deploy them to our trading servers written in node.js &amp; scala.</p>
+      <p class="thought">Our goal is to derive insights into the world of financial economics and apply those insights to benefit our investors. We believe that cutting edge technology and advanced mathematics are the best tools to achieve that goal. </p>
+      <p class="thought">Technology combined with scientific processes can not only remove human bias, but capitalize on it. We seek to do so by innovating and refining concepts from finance, computer science, mathematics, and statistics in order to bridge the gap between theory and data. Those concepts are then molded into practical algorithmic models that are used to make investment decisions.</p>
       <a class="back" href="/">&larr; Back to Homepage</a>
     </div>
   </body>
